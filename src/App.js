@@ -15,7 +15,7 @@ function App() {
       <Header/>
       <Feature/>
       <Presentation image={aboutimage3}/>
-      <EventRegistration image={aboutimage1} title='Power of Generation in the Right Hands' button='Be a Part' / >
+      <EventRegistration image={aboutimage1} title='Power of Young Generation in the Right Hands' button='Be a Part ' / >
       <About  image={aboutimage} title='Happening Now!' button='Join now' / >
       <Contact/>
     </div>
